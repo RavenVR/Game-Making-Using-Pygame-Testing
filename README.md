@@ -10,3 +10,5 @@ if it gives you a error saying "pip is not a recognised command" then:
 if pip still doesnt work, then look at https://phoenixnap.com/kb/install-pip-windows.
 
 Ill most likely be updating this every week, if you also want to edit the file download VSCode or use IDLE (VSC download:https://code.visualstudio.com/download. download for IDLE: unknown.) ONLY EDIT THE FILE IF YOU KNOW HOW TO CODE IN PYTHON.
+
+(BTW kkey.py is used to see every key press for events.)
