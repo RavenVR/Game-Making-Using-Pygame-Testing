@@ -2,7 +2,7 @@
 this is just a thing, its where you can move and draw and stuff
 
 ### Updates
-10/06/2022: changed the theme for snake and started testing leveling up in breakout (will not be available yet).
+10/06/2022: changed the theme for snake and started testing leveling up in breakout (will not be available yet). also added inf lives mode for cursed breakout.
 #### BEFORE OPENING INSTALL PYTHON AND PYGAME
 install python from https://www.python.org/downloads/.
 then open a command window and type: pip install pygame.
