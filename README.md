@@ -1,5 +1,5 @@
 <p align="center>
-  <img width="240" src="./images/pythonlogo.png" alt="python logo">
+  <img src="./images/pythonlogo.png" alt="python logo">
 </p>
 <h1 align="center">PythonPygameMovementStuff-BETA</h1>
 This project is to see if i can make a full game using pythons pygame
