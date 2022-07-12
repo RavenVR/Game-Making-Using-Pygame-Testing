@@ -1,11 +1,23 @@
 <p align="center">
-  <img src="./images/pythonlogo.png" alt="Voodoo Logo" />
+  <img width="240" src="./images/pythonlogo.png" alt="Voodoo Logo" />
 </p>
 <h1 align="center">PythonPygameMovementStuff-BETA</h1>
-This project is to see if i can make a full game using pythons pygame
+
+---
+
+#what is this project?
+
+This project is to see if i can make a full game using pythons pygame. at the moment i have simple games like breakout, tetris and snake but im working on going bigger with a platformer and so on
+
+---
 
 ### Updates
 [Added 2.5.0](./updatelog.md)
+
+---
+
+# Help Section
+
 #### BEFORE OPENING INSTALL PYTHON AND PYGAME
 install python from https://www.python.org/downloads/.
 then open a command window and type: pip install pygame.
