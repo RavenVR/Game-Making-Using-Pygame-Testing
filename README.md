@@ -2,7 +2,7 @@
 this is just a thing, its where you can move and draw and stuff
 
 ### Updates
-Look in "update log.md"
+[Added 2.5.0](./updatelog.md)
 #### BEFORE OPENING INSTALL PYTHON AND PYGAME
 install python from https://www.python.org/downloads/.
 then open a command window and type: pip install pygame.
