@@ -2,7 +2,10 @@
   <img width="240" src="./images/pythonlogo.png" alt="Voodoo Logo" />
 </p>
 <h1 align="center">PythonPygameMovementStuff-BETA</h1>
-
+<p align="center">
+  <img alt="CodeQL" src="https://badgen.net/badge/Python%20COC/approved/green" />
+  <a href="CODE-OF-CONDUCT.md"><img alt="contributor covenant v2.0 adopted" src="https://badgen.net/badge/python/v2.5.0/yellow?icon=pypi" /></a>
+</p>
 
 ---
 
