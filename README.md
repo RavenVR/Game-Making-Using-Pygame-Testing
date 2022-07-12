@@ -2,10 +2,7 @@
   <img width="240" src="./images/pythonlogo.png" alt="Voodoo Logo" />
 </p>
 <h1 align="center">PythonPygameMovementStuff-BETA</h1>
-<p align="center">
-  <img alt="CodeQL" src="https://github.com/mdingena/att-voodoo/actions/workflows/codeql-analysis.yml/badge.svg" />
-  <a href="CODE-OF-CONDUCT.md"><img alt="contributor covenant v2.0 adopted" src="https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg" /></a>
-</p>
+
 
 ---
 
