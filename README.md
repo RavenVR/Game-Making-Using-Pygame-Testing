@@ -5,7 +5,7 @@
 
 ---
 
-#what is this project?
+# what is this project?
 
 This project is to see if i can make a full game using pythons pygame. at the moment i have simple games like breakout, tetris and snake but im working on going bigger with a platformer and so on
 
@@ -29,5 +29,3 @@ if pip still doesnt work, then look at https://phoenixnap.com/kb/install-pip-win
 
 ## Other Info
 Ill most likely be updating this every week, if you also want to edit the file download VSCode or use IDLE (VSC download:https://code.visualstudio.com/download. download for IDLE: unknown.) ONLY EDIT THE FILE IF YOU KNOW HOW TO CODE IN PYTHON.
-
-(BTW kkey.py is used to see every key press for events.)
