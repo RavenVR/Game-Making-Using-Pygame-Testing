@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="240" src="./images/pythonlogo2.png" alt="Voodoo Logo" />
+  <img width="240" src="./images/pythonlogo2.png" alt="Python Logo" />
 </p>
 <h1 align="center">Game Making Using Pygame Testing</h1>
 <p align="center">
