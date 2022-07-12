@@ -5,7 +5,7 @@
 
 ---
 
-# what is this project?
+## What is this project?
 
 This project is to see if i can make a full game using pythons pygame. at the moment i have simple games like breakout, tetris and snake but im working on going bigger with a platformer and so on
 
