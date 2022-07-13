@@ -3,8 +3,8 @@
 </p>
 <h1 align="center">Game Making Using Pygame Testing</h1>
 <p align="center">
-  <img alt="CodeQL" src="https://badgen.net/badge/Python%20COC/approved/green" />
-  <a href="pythonCOC.md"><img alt="contributor covenant v2.0 adopted" src="https://badgen.net/badge/python/v2.5.0/yellow?icon=pypi" /></a>
+  <img alt="Python Code Of Conduct" src="https://badgen.net/badge/Python%20COC/approved/green" />
+  <a href="pythonCOC.md"><img alt="Version of the project" src="https://badgen.net/badge/python/v2.5.5/yellow?icon=pypi" /></a>
 </p>
 
 ---
