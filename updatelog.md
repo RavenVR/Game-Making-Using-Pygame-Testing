@@ -1,7 +1,7 @@
 # UPDATE LOG
  
 ## 3.0.0
-ADDED Beta version of Flappy Bird, gonna make it look better later
+ADDED Beta version of Flappy Bird, gonna make it look better later.
 ## 2.5.5
 CHANGED 1 player pong, if you hit the ball with the paddle you get 1 point but if it hits the wall it resets to 0.
 
