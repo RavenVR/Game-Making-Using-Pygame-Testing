@@ -14,6 +14,8 @@ Overall made the file neater
 ## 2.0.0
 ADDED Breakout 
  
+ADDED Snake
+ 
 ADDED Pong
  
 ## 1.0.0
