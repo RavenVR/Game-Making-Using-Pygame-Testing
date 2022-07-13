@@ -3,8 +3,8 @@
 </p>
 <h1 align="center">Game Making Using Pygame Testing</h1>
 <p align="center">
-  <img alt="Python Code Of Conduct" src="https://badgen.net/badge/Python%20COC/approved/green" />
-  <a href="pythonCOC.md"><img alt="Version of Python used" src="https://badgen.net/badge/python/v3.10/yellow?icon=pypi" /></a>
+  <a href="pythonCOC.md"><img alt="Python Code Of Conduct" src="https://badgen.net/badge/Python%20COC/approved/green" /></a>
+  <img alt="Version of Python used" src="https://badgen.net/badge/python/v3.10/yellow?icon=pypi" />
   <a href="./VERSIONS"><img alt="Version of the project" src="https://badgen.net/badge/Project%20Version/v2.5.5/blue?icon=" /></a>
 </p>
 
