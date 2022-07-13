@@ -1,5 +1,8 @@
 # UPDATE LOG
 
+## 2.5.5
+CHANGED 1 player pong, if you hit the ball with the paddle you get 1 point but if it hits the wall it resets to 0.
+
 ## 2.5.0
 ADDED 1 player Pong and 2 player Pong
  
