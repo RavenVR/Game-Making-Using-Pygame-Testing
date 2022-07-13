@@ -9,7 +9,7 @@ ADDED 1 player Pong and 2 player Pong
 ADDED Cursed Breakout with infinate lifes or 3
  
 OTHER:
-Overall made the file neater\n
+Overall made the file neater
  
 ## 2.0.0
 ADDED Breakout 
