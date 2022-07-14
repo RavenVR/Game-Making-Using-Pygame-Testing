@@ -4,8 +4,8 @@
 <h1 align="center">Game Making Using Pygame Testing</h1>
 <p align="center">
   <a href="pythonCOC.md"><img alt="Python Code Of Conduct" src="./images/badges/pythosCOC.svg" /></a>
-  <a href="https://www.python.org/"><img alt="Version of Python used" src="https://badgen.net/badge/python/v3.10/yellow?icon=pypi" /></a>
-  <a href="./VERSIONS"><img alt="Version of the project" src="https://badgen.net/badge/Project%20Version/v3.0.0/blue?icon=" /></a>
+  <a href="https://www.python.org/"><img alt="Version of Python used" src="./images/badges/PythonVER.svg" /></a>
+  <a href="./VERSIONS"><img alt="Version of the project" src="./images/badges/projVER.svg" /></a>
 </p>
 
 ---
