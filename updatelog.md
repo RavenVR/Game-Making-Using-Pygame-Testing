@@ -1,5 +1,8 @@
 # UPDATE LOG
  
+## 3.6.0
+ADDED New Snake gamemode, Growth Over Time, where overtime it adds 0.1 to your length, a fruit gives 5.
+ 
 ## 3.5.5
 CHANGED Pong 1 player so that if the ball hits the top and bottom wall then the score wont change
  
