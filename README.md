@@ -18,6 +18,8 @@ This project is to see if i can make a full game using pythons pygame. at the mo
 
 ### Updates
  
+[Added 3.6.0](./updatelog.md)
+ 
 [Added 3.5.5](./updatelog.md)
  
 [Added 3.5.0](./updatelog.md)
