@@ -1,7 +1,11 @@
 # UPDATE LOG
  
+## 3.5.0
+UPDATED Flappy Bird to look more like the mobile version and has bg music, if you want me to get rid of it dm me RavenVR#9423
+ 
 ## 3.0.0
 ADDED Beta version of Flappy Bird, gonna make it look better later.
+ 
 ## 2.5.5
 CHANGED 1 player pong, if you hit the ball with the paddle you get 1 point but if it hits the wall it resets to 0.
 
@@ -10,8 +14,7 @@ ADDED 1 player Pong and 2 player Pong
  
 ADDED Cursed Breakout with infinate lifes or 3
  
-OTHER:
-Overall made the file neater
+Overall made the file location neater
  
 ## 2.0.0
 ADDED Breakout 
