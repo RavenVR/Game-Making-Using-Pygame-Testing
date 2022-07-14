@@ -2,6 +2,7 @@
  
 ## 3.5.5
 CHANGED Pong 1 player so that if the ball hits the top and bottom wall then the score wont change
+CHANGED Pong 1 player so the score doesnt change your speed
  
 ## 3.5.0
 UPDATED Flappy Bird to look more like the mobile version and has bg music, if you want me to get rid of it dm me RavenVR#9423
