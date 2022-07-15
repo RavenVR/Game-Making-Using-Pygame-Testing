@@ -1,5 +1,8 @@
 # UPDATE LOG
  
+## 4.0.0
+ADDED Beta version of the main game im creating
+  
 ## 3.6.0
 ADDED New Snake gamemode, Growth Over Time, where overtime it adds 0.1 to your length, a fruit gives 5.
 ADDED New Hardcore Snake gamemode, dont get over 4 points or you lose, gain fruits to lose points.
