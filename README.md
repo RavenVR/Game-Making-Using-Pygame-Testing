@@ -5,7 +5,7 @@
 <p align="center">
   <a href="pythonCOC.md"><img alt="Python Code Of Conduct" src="./images/badges/pythosCOC.svg" /></a>
   <a href="https://www.python.org/"><img alt="Version of Python used" src="./images/badges/PythonVER.svg" /></a>
-  <a href="./VERSIONS"><img alt="Version of the project" src="https://badgen.net/badge/Project%20Version/v4.0.0/blue?icon=" /></a>
+  <a href="./VERSIONS"><img alt="Version of the project" src="https://badgen.net/badge/Project%20Version/v5.5.5/blue?icon=" /></a>
 </p>
 
 ---
