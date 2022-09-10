@@ -1,5 +1,11 @@
 # UPDATE LOG
- 
+
+## 5.5.5
+CHANGED Game Testing, made day/night when touching house and you can collect wood, when entering house, theres a 5 second sleep() to add a bit of delay, if you want to remove it then go ahead, i wont stop you.
+
+## 5.0.0
+CHANGED Game Testing, made the theme better
+
 ## 4.0.0
 ADDED Beta version of the main game im creating
   
