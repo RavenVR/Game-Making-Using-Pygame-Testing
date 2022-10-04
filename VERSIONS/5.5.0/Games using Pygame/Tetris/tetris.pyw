@@ -1,6 +1,5 @@
 import pygame
 import random
-a = open(r"C:\Users\s12073\Desktop\data\VERSIONS\5.0.0\Games using Pygame\Tetris\tetris-score.txt", 'r+')
 
 colors = [
     (0, 0, 0),
@@ -210,8 +209,6 @@ while not done:
 
     screen.blit(text, [0, 0])
     if game.state == "gameover":
-        a.writelines(str(game.score))
-        text_high_score = font1.render("High Score: " + a.read(), True, BLACK)
         screen.blit(text_high_score, [20, 150])
         screen.blit(text_game_over, [20, 200])
         screen.blit(text_game_over1, [25, 265])
