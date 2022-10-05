@@ -209,7 +209,6 @@ while not done:
 
     screen.blit(text, [0, 0])
     if game.state == "gameover":
-        screen.blit(text_high_score, [20, 150])
         screen.blit(text_game_over, [20, 200])
         screen.blit(text_game_over1, [25, 265])
 
