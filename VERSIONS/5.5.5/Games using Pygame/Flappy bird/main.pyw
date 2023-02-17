@@ -9,7 +9,6 @@ SCREENHEIGHT = 511
 SCREEN = pygame.display.set_mode((SCREENWIDTH, SCREENHEIGHT))
 GROUNDY = SCREENHEIGHT*0.8
 GAME_SPRITES = {}
-GAME_SOUNDS = {}
 PLAYER = 'resources\SPRITES\\bird.png'
 BACKGROUND = 'resources\SPRITES\\bg.jpeg'
 PIPE = 'resources\SPRITES\pipe.png '
@@ -100,7 +99,6 @@ def mainGame():
                 if playery > 0:
                     playerVelY = playerFlapAccv
                     playerFlapped = True
-                    GAME_SOUNDS['wing'].play()
 
         crashTest = isCollide(playerx, playery, upperPipes, lowerPipes) # This function will return true if the player is crashed
         if crashTest:
@@ -113,7 +111,6 @@ def mainGame():
             if pipeMidPos<= playerMidPos < pipeMidPos +4:
                 score +=1
                 print(f"Your score is {score}") 
-                GAME_SOUNDS['point'].play()
 
         if playerVelY <playerMaxVelY and not playerFlapped:
             playerVelY += playerAccY
@@ -161,23 +158,17 @@ def mainGame():
 
 def isCollide(playerx, playery, upperPipes, lowerPipes):
     if playery> GROUNDY - 25  or playery<0:
-        GAME_SOUNDS['hit'].play()
-        pygame.mixer.music.stop()
         gameOver()
 
     for pipe in upperPipes:
         pipeHeight = GAME_SPRITES['pipe'][0].get_height()
         if(playery < pipeHeight + pipe['y'] and abs(playerx - pipe['x']) < GAME_SPRITES['pipe'][0].get_width()-20):
-            GAME_SOUNDS['hit'].play()
             print(playerx, pipe['x'],)
-            pygame.mixer.music.stop()
             gameOver()
             
 
     for pipe in lowerPipes:
         if (playery + GAME_SPRITES['player'].get_height() > pipe['y']) and abs(playerx - pipe['x']) < GAME_SPRITES['pipe'][0].get_width()-20:
-            GAME_SOUNDS['hit'].play()
-            pygame.mixer.music.stop()
             gameOver()
 
     return False
