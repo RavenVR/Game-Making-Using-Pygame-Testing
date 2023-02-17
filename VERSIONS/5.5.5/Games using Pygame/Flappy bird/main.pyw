@@ -51,18 +51,13 @@ def welcomeScreen():
                 SCREEN.blit(GAME_SPRITES['player'],(playerx,playery))
                 SCREEN.blit(GAME_SPRITES['message'],(messagex,messagey))
                 SCREEN.blit(GAME_SPRITES['base'],(basex,GROUNDY))
-                #Adding INRO Music
-                pygame.mixer.music.load('resources/AUDIO/INTROMUSIC.mp3')
-                pygame.mixer.music.play()
                 pygame.display.update()
                 FPSCLOCK.tick(FPS)
 
 def mainGame():
     
     #ADDING THE BACKGROUND MUSIC
-    pygame.mixer.music.stop()
-    pygame.mixer.music.load('resources/AUDIO/BGMUSIC.mp3')
-    pygame.mixer.music.play()
+    
     score = 0
     playerx = int(SCREENWIDTH/5)
     playery = int (SCREENHEIGHT/2)
@@ -284,11 +279,6 @@ if __name__ == "__main__":
     )
 
     #Game Sounds
-    GAME_SOUNDS['die'] = pygame.mixer.Sound('resources\AUDIO\die.wav')
-    GAME_SOUNDS['hit'] = pygame.mixer.Sound('resources\AUDIO\hit.wav')
-    GAME_SOUNDS['point'] = pygame.mixer.Sound('resources\AUDIO\point.wav')
-    GAME_SOUNDS['swoosh'] = pygame.mixer.Sound('resources\AUDIO\swoosh.wav')
-    GAME_SOUNDS['wing'] = pygame.mixer.Sound('resources\AUDIO\wing.wav')
     while True:
         welcomeScreen() #Shows a welcomescreen to the user until they starts the game
         mainGame() #This is our main game funtion
